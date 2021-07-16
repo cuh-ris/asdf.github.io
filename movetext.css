@@ -1,0 +1,40 @@
+.text-wrapper{
+  width:100%;
+  position:relative;
+  margin-top:-30%;
+  text-align: center;
+}
+
+#image{
+  width:100%;
+  height:100%;
+}
+
+#video{
+  position:relative;
+  top:280px;
+  width:100%;
+  height:100%;
+}
+
+#videodesc{
+  position:relative;
+  top:270px;
+  text-align:center;
+  font-size:300%
+}
+
+.text-wrapper h1{
+  text-align: center;
+  color:white;
+  font-size:400%;
+}
+
+.videotext video{
+  background-color:black;
+}
+
+.videotext h4{
+  background-color:grey;
+  margin:-0.7%;
+}
