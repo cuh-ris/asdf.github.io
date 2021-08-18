@@ -1,40 +1,21 @@
-.text-wrapper{
-  width:100%;
-  position:relative;
-  margin-top:-30%;
-  text-align: center;
-}
-
-#image{
+#image1{
   width:100%;
   height:100%;
 }
-
-#video{
-  position:relative;
-  top:280px;
-  width:100%;
-  height:100%;
+#image2{
+  width:50%;
+  height:80%;
+}
+#image3{
+  width:50%;
+  height:200%;
+}
+#background{
+  position:absolute;
+    width: 50%;
+    height: 1747px;
+    background-color: black;
+    top:632px;
+    left:675px;
 }
 
-#videodesc{
-  position:relative;
-  top:270px;
-  text-align:center;
-  font-size:300%
-}
-
-.text-wrapper h1{
-  text-align: center;
-  color:white;
-  font-size:400%;
-}
-
-.videotext video{
-  background-color:black;
-}
-
-.videotext h4{
-  background-color:grey;
-  margin:-0.7%;
-}
